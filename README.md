@@ -1,6 +1,5 @@
 # Rocket Launch Tracker
-## Uses React
 
-- This application utilizes the Rocket Launch API located at https://www.rocketlaunch.live/api
+- I love watching rocket launches in my free time. Trouble is, I have a hard time keeping track of the launch dates. I wrote this program to help me with this problem. After learning react, I figured this would be a great way to practice utilizing the framework
 
-- I love to watch space launches but have trouble keeping track of the dates. I wrote this program to help me keep track of space launches
+- Utilizes the Rocket Launch API located at: https://www.rocketlaunch.live/api
