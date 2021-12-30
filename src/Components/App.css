@@ -1,0 +1,59 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#getLauchesBtn {
+  padding: 10px;
+  border-radius: 10px;
+}
+
+#launchesDiv {
+  background-color: #d3e0dc;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 500px;
+  flex-direction: column;
+  padding: 45px;
+  margin: 25px;
+  border-radius: 20px;
+}
+
+#headerText {
+  padding-bottom: 15px;
+  font-family: 'Raleway', sans-serif;
+}
+
+li {
+  padding: 10px;
+}
+
+#resultDiv {
+  border-radius: 25px;
+  padding: 40px;
+  margin-top: 30px;
+  font-family: 'Lato', sans-serif;
+}
+
+#descField {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: #aee1e1;
+  padding-left: 135px;
+  padding-right: 135px;
+  padding-bottom: 400px;
+  padding-top: 30px;
+}
+
+#descHeader {
+  padding-bottom: 15px;
+  font-family: 'Raleway', sans-serif;
+}
+
+#descParagraph {
+  font-family: 'Lato', sans-serif;
+}
