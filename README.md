@@ -1,5 +1,5 @@
 # Rocket Launch Tracker
-
+## Uses React
 
 - This application utilizes the Rocket Launch API located at https://www.rocketlaunch.live/api
 
